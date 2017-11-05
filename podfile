@@ -1,0 +1,7 @@
+platform :ios, '10.0'
+use_frameworks!
+
+target 'SimpleWeather' do
+    pod 'ObjectMapper', '~> 2.2'
+    pod 'Alamofire', '~> 4.2.0'
+end

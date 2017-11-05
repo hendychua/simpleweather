@@ -1,0 +1,9 @@
+keys.plist
+Pods/
+xcuserdata/
+*.xcuserstate
+project.xcworkspace/
+
+## Build generated
+build/
+DerivedData/
